@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE.csproj": {}
+  },
+  "projects": {
+    "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE.csproj",
+        "projectName": "BASE_OPEN_GL",
+        "projectPath": "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE.csproj",
+        "packagesPath": "C:\\Users\\adammarzuk\\.nuget\\packages\\",
+        "outputPath": "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adammarzuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jlv-nuget.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MemoryPack": {
+              "target": "Package",
+              "version": "[1.21.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

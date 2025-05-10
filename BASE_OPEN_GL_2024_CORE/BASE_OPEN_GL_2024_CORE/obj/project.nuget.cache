@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCuHcrTIBZFIJA7CEiQNTOTuYoADrVTLb71v+/QR55d44HomnZD8Erw8Im/D8b5RgWPQ3VHDu4+1jcEOSqEDQw==",
+  "success": true,
+  "projectFilePath": "Y:\\Bts-Sio\\C#\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE\\BASE_OPEN_GL_2024_CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adammarzuk\\.nuget\\packages\\memorypack\\1.21.1\\memorypack.1.21.1.nupkg.sha512",
+    "C:\\Users\\adammarzuk\\.nuget\\packages\\memorypack.core\\1.21.1\\memorypack.core.1.21.1.nupkg.sha512",
+    "C:\\Users\\adammarzuk\\.nuget\\packages\\memorypack.generator\\1.21.1\\memorypack.generator.1.21.1.nupkg.sha512",
+    "C:\\Users\\adammarzuk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
